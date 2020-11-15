@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d693f192-b5de-4eca-aadc-0d9d7216da61" name="Default Changelist" comment="" />
+    <list default="true" id="d693f192-b5de-4eca-aadc-0d9d7216da61" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/context/createDataContext.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context/BlogContext.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/BlogContext.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,9 +22,42 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/package.json" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="npm.run">
+    <configuration name="Unnamed" type="ReactNative" factoryName="React Native" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <react-native value="$USER_HOME$/AppData/Roaming/npm/node_modules/react-native-cli" />
+      <platform value="ANDROID" />
+      <envs />
+      <only-packager />
+      <browser value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <method v="2">
+        <option name="ReactNativePackager" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.run" />
+      <item itemvalue="React Native.Unnamed" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -30,7 +67,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605174460682</updated>
-      <workItem from="1605174461781" duration="6447000" />
+      <workItem from="1605174461781" duration="7956000" />
+      <workItem from="1605435907274" duration="2613000" />
     </task>
     <servers />
   </component>
@@ -42,6 +80,34 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="11" y="111" key="#Inspections/0.0.1536.864@0.0.1536.864" timestamp="1605181877131" />
+    <state x="0" y="87" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605436093670">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="0" y="87" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1605436093670" />
+    <state x="325" y="186" key="FileChooserDialogImpl" timestamp="1605435995974">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="325" y="186" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1605435995974" />
+    <state width="745" height="226" key="GridCell.Tab.0.bottom" timestamp="1605436765877">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="745" height="226" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1605436765877" />
+    <state width="745" height="226" key="GridCell.Tab.0.center" timestamp="1605436765877">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="745" height="226" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1605436765877" />
+    <state width="745" height="226" key="GridCell.Tab.0.left" timestamp="1605436765877">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="745" height="226" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1605436765877" />
+    <state width="745" height="226" key="GridCell.Tab.0.right" timestamp="1605436765877">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="745" height="226" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1605436765877" />
+    <state x="0" y="77" key="SettingsEditor" timestamp="1605436860295">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="0" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1605436860295" />
     <state x="425" y="197" key="run.anything.popup" timestamp="1605180340395">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

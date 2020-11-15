@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d693f192-b5de-4eca-aadc-0d9d7216da61" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/context/BlogContext.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/BlogContext.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/context/createDataContext.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/createDataContext.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screens/IndexScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/IndexScreen.js" afterDir="false" />
-    </list>
+    <list default="true" id="d693f192-b5de-4eca-aadc-0d9d7216da61" name="Default Changelist" comment="k" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +66,7 @@
       <workItem from="1605174461781" duration="7956000" />
       <workItem from="1605435907274" duration="3969000" />
       <workItem from="1605439926648" duration="481000" />
-      <workItem from="1605440422573" duration="172000" />
+      <workItem from="1605440422573" duration="368000" />
     </task>
     <task id="LOCAL-00001" summary="k">
       <created>1605438583960</created>
@@ -82,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605438583960</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="k">
+      <created>1605440749238</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605440749238</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,38 +111,38 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="0" y="87" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1605436093670" />
-    <state x="729" y="0" key="CommitChangelistDialog2" timestamp="1605438583181">
+    <state x="702" y="0" key="CommitChangelistDialog2" timestamp="1605440777870">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="729" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1605438583181" />
+    <state x="702" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1605440777870" />
     <state x="325" y="186" key="FileChooserDialogImpl" timestamp="1605435995974">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="325" y="186" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1605435995974" />
-    <state width="744" height="150" key="GridCell.Tab.0.bottom" timestamp="1605439912572">
+    <state width="745" height="151" key="GridCell.Tab.0.bottom" timestamp="1605440667381">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="744" height="150" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1605439912572" />
-    <state width="744" height="150" key="GridCell.Tab.0.center" timestamp="1605439912571">
+    <state width="745" height="151" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1605440667381" />
+    <state width="745" height="151" key="GridCell.Tab.0.center" timestamp="1605440667381">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="744" height="150" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1605439912571" />
-    <state width="744" height="150" key="GridCell.Tab.0.left" timestamp="1605439912570">
+    <state width="745" height="151" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1605440667381" />
+    <state width="745" height="151" key="GridCell.Tab.0.left" timestamp="1605440667381">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="744" height="150" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1605439912570" />
-    <state width="744" height="150" key="GridCell.Tab.0.right" timestamp="1605439912571">
+    <state width="745" height="151" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1605440667381" />
+    <state width="745" height="151" key="GridCell.Tab.0.right" timestamp="1605440667381">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="744" height="150" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1605439912571" />
+    <state width="745" height="151" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1605440667381" />
     <state x="194" y="96" key="SettingsEditor" timestamp="1605440595817">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="194" y="96" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1605440595817" />
-    <state x="0" y="168" key="Vcs.Push.Dialog.v2" timestamp="1605438678166">
+    <state x="0" y="168" key="Vcs.Push.Dialog.v2" timestamp="1605440752745">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="0" y="168" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1605438678166" />
+    <state x="0" y="168" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1605440752745" />
     <state x="191" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605438591627">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
